@@ -1,10 +1,13 @@
 <template>
     <div>
-        index
+        order-header
     </div>
 </template>
 <script>
 export default {
-    name:'index',
+    name:'order-header',
+    components:{
+        
+    }
 }
 </script>
